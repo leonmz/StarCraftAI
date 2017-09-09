@@ -1,9 +1,10 @@
 # StarCraft AI based on one step Q learning
 This is a Java project that implements 1-step Q leanring on StarCraft BWAPI.
-Imitate paper “Applying the Reinforcement Learning to Small Scale Combat in the Real-Time Strategy Game: Star Craft: Brood War” * [Paper](photos/starcraft_RL.pdf) 
+Imitate from paper “[Applying the Reinforcement Learning to Small Scale Combat in the Real-Time Strategy Game: Star Craft: Brood War](photos/starcraft_RL.pdf)”  
 ![](photos/test.png)
 Training Evnironment
-* [ResultReport&Compare](photos/FinalReport.pdf) 
+[Training Video](photos/FinalReport.pdf)
+[ResultReport&Compare](photos/FinalReport.pdf) 
 ## Deployment
 * First follow the instruction from the BWAPI Java version to install BWAPI 
 * Start the game [StarCraft ](https://starcraft.com/en-us/?utm_source=Google%20US&utm_medium=Search&utm_content=22027804&utm_campaign=LQA_SCII_L_Remastered_Relaunch_Q2_2017_NA) with BWAPI deamon running 
