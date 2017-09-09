@@ -3,7 +3,7 @@ This is a Java project that implements 1-step Q leanring on StarCraft BWAPI.
 Imitate from paper “[Applying the Reinforcement Learning to Small Scale Combat in the Real-Time Strategy Game: Star Craft: Brood War](photos/starcraft_RL.pdf)”  
 ![](photos/test.png)
 Training Evnironment <br />
-[Training Video](photos/FinalReport.pdf)<br />
+[Training Video](photos/Training_video.mp4)<br />
 [ResultReport&Compare](photos/FinalReport.pdf) 
 ## Deployment
 * First follow the instruction from the BWAPI Java version to install BWAPI 
